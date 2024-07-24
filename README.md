@@ -1,5 +1,7 @@
 # LS-DDPM
 
+<img src="https://github.com/lindan1128/LS-DDPM/blob/main/gif.gif"/>
+
 ## Requirements
 
 The code requires:
