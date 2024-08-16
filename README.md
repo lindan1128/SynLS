@@ -1,4 +1,4 @@
-# LS-DDPM
+# SynLS
 
 <img src="https://github.com/lindan1128/LS-DDPM/blob/main/gif.gif"/>
 
