@@ -4,6 +4,8 @@
 
 SynLS is a model designed for generating highly realistic livestock wearable sensor data using diffusion architecture and transformer encoder mechanism. 
 
+![Image text](https://github.com/lindan1128/SynLS/blob/main/Workflow.png)
+
 ### Project structure
 
 	SynLS/
