@@ -14,8 +14,8 @@ SynLS is a model designed for generating highly realistic livestock wearable sen
 	│   ├── timevae.py                # TimeVAE model
 	│   ├── timegan.py                # TimeGAN model
 	│   ├── diffusion.py              # SynLS source code
-	│ 	├── utils.py                  # Utils to normalize data and create time step
-	│ 	├── zoo.py              	  # Base moduler for TimeGAN and TimeVAE
+	│ 	├── utils.py              # Utils to normalize data and create time step
+	│ 	├── zoo.py                # Base moduler for TimeGAN and TimeVAE
 	├── results/                      # Folder for some supplemental tables
 	│   ├── Supplemental Table5
 	│   ├── Supplemental Table6
