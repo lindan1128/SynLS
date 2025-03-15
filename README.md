@@ -51,7 +51,7 @@ The code requires
 	* --epoch EPOCH         The number of training epoch
 	* --batch_size BATCH_SIZE Training batch size
 	* --new_num NEW_NUM     The number of generating new samples
-	* --output				Output file name for generated samples (default: new_samples.npy)
+	* --output		Output file name for generated samples (default: new_samples.npy)
 
 	The output for the model are:
 	* cp.ckpt: checkpoint file
